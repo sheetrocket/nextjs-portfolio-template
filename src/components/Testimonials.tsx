@@ -52,7 +52,7 @@ export default function Testimonials() {
                                 <StarIcon />
                             </div>
                             <p className="text-lg text-dark/60 mb-8">
-                                "{testimonial.testimonial}"
+                                &ldquo;{testimonial.testimonial}&rdquo;
                             </p>
                             <div className="flex items-center space-x-4">
                                 <Image
